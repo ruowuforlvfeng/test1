@@ -126,3 +126,8 @@ body{background:#f6f6f6 url(../images/body_bg.gif) top repeat-x}
 .page-guestbook p input{height:26px;width:100px;color:#FFF;background:#025dbf;cursor:pointer;border:none}
 
 #copyright{background:url(../images/copyright_bg.gif) repeat-x top;padding:15px 0px;text-align:center}
+.page-dislpay-none{display:none;}
+/* 功能设计 */
+.gn_biaoti{width:190px; text-align:left; font-size:18px; font-family:"微软雅黑"; font-weight:bold; color:#333333; letter-spacing:1px; padding-left:15px;}
+.gn_jianjie{width:480px; text-align:left; color:#3C3C3C; font-size:12px;}
+.gn_tupian{ text-align:center;}
